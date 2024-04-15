@@ -5,3 +5,5 @@ class Weather:
         self.temperature = temperature
         
 weather = Weather(30)
+
+print(weather.temperature)
